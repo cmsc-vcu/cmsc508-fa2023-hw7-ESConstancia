@@ -1,4 +1,4 @@
- Homework 7 - Database Creation and Query Results
+# Homework 7 - Database Creation and Query Results
 
 ## Description
 
